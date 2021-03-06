@@ -32,7 +32,7 @@ namespace OS_PayNL
 
             var strOut = "OS_PayNL Ajax Error";
 
-            if (PluginUtils.CheckPluginSecurity(PortalSettings.Current.PortalId, "OS_PayNL"))
+            if (PluginUtils.CheckPluginSecurity(PortalSettings.Current.PortalId, "os_paynl"))
             {
                 // NOTE: The paramCmd MUST start with the plugin ref. in lowercase. (links ajax provider to cmd)
                 switch (paramCmd)
