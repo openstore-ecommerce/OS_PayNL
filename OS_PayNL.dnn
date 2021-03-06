@@ -1,6 +1,6 @@
 ﻿<dotnetnuke type="Package" version="5.0">
 	<packages>
-		<package name="OS_PayNL" type="Module" version="1.0.0">
+		<package name="OS_PayNL" type="Module" version="1.0.1">
 			<friendlyName>OS_PayNL</friendlyName>
 			<description>OS_PayNL: Pay.nl Payment provider for OpenStore</description>
 			<iconFile />
